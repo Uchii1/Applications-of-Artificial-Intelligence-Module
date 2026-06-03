@@ -1,1 +1,3 @@
+# Read Me
 
+###  Instructions: Load the csv file containing customer data, then run each code block in turn, starting from the top
